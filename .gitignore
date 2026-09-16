@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Sanal ortam (virtual environment)
+.venv/
+venv/
+env/
+
+# IDE ayarları
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
