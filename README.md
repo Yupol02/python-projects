@@ -7,6 +7,7 @@ Python öğrenme sürecimde geliştirdiğim projelerin toplandığı depo. Her k
 | Proje | Açıklama |
 |---|---|
 | [atm-simulatoru](./atm-simulatoru) | Terminalde çalışan ATM simülatörü: bakiye görüntüleme, para yatırma/çekme ve işlem geçmişi |
+| [vergi-kredi-hesaplayici](./vergi-kredi-hesaplayici) | Kademeli gelir vergisi ve annüite formülüyle eşit aylık kredi taksiti hesaplayan katmanlı uygulama |
 
 ## Gereksinimler
 
