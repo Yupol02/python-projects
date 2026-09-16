@@ -1,8 +1,8 @@
 import sys
 
-from Kredi import odeme_plani
-from Rapor import kredi_ozeti , odeme_plani_raporu , vergi_raporu
-from Vergi import vergi_hesapla
+from kredi import odeme_plani
+from rapor import kredi_ozeti , odeme_plani_raporu , vergi_raporu
+from vergi import vergi_hesapla
 
 def sayi_iste(mesaj:str , en_az : float = 0.0 , tam_sayi : bool = False) ->float:
 
