@@ -5,6 +5,8 @@ __pycache__/
 
 # Test araclari
 .pytest_cache/
+.coverage
+htmlcov/
 
 # Sanal ortam (virtual environment)
 .venv/
