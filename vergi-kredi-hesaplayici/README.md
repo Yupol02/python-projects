@@ -10,8 +10,8 @@ Gelir dilimlerine göre artan oranlı vergi hesabı + annüite formülüyle eşi
 ## Çalıştırma
 
 ```bash
-python main.py          # etkileşimli
-python main.py --demo   # hazır örnekler
+python3 main.py          # etkileşimli
+python3 main.py --demo   # hazır örnekler
 pytest -v               # 18 test
 ```
 
